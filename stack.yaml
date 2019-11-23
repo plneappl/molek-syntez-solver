@@ -43,6 +43,9 @@ packages:
 # Override default flag values for local packages and extra-deps
 # flags: {}
 
+extra-deps:
+  - vector-shuffling-1.1@sha256:c296c3a8571d8cee52a04de577284c639496e45b695d323804148840a0bee00c,1479
+
 # Extra package databases containing global packages
 # extra-package-dbs: []
 

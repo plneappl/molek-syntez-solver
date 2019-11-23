@@ -22,6 +22,9 @@ description:         Please see the README on GitHub at <https://github.com/gith
 dependencies:
 - base >= 4.7 && < 5
 - extra >= 1
+- vector
+- vector-shuffling >= 1
+- random >= 1
 
 library:
   source-dirs: src
